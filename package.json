@@ -18,7 +18,7 @@
       "ios"
     ]
   },
-  "repository": "https://github.com/jarodms/cordova-admob-sdk",
+  "repository": "https://github.com/apppresser/cordova-admob-sdk",
   "keywords": [
     "cordova",
     "ecosystem:cordova",
@@ -29,7 +29,7 @@
     "google",
     "sdk"
   ],
-  "author": "JarodMS",
+  "author": "AppPresser",
   "license": "MIT",
   "files": [
     "*.js",
